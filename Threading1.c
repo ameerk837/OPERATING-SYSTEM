@@ -5,7 +5,7 @@
 
 void *fun()
 {
-  
+  // critical sec
 }
 
 int main()
